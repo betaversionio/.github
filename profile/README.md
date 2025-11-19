@@ -53,16 +53,4 @@ If you want to be part of the early contributors:
 
 We will highlight top contributors in our community page.
 
-
-## 📨 **Contact**
-
-Want to collaborate, partner, or contribute?
-
-**Website:** [https://betaversion.io](https://betaversion.io)
-
-**GitHub:** [https://github.com/betaversion-io](https://github.com/betaversion-io)
-
-**Email:** [contact@betaversion.io](mailto:hello@betaversion.io)
-
-
 ### ❤️ *betaversion.io — Always in Beta. Always Improving.*
