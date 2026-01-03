@@ -1,0 +1,7 @@
+{
+  "project": {
+    "name": "BetaVersion.IO",
+    "description": "Tools, templates, and technologies to help developers ship faster",
+    "version": "1.0.0"
+  }
+}
